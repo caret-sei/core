@@ -31,8 +31,8 @@
     "type": "git",
     "url": "git+https://github.com/caret-sei/core.git"
   },
-  "packageManager": "bun@1.2.0",
+  "packageManager": "bun@1.2.17",
   "engines": {
-    "bun": ">=1.2.0"
+    "bun": ">=1.2.17"
   }
 }
