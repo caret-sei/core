@@ -1,0 +1,20 @@
+{
+  "name": "@caret/sdk",
+  "version": "0.0.1",
+  "description": "The Caret SDK.",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "exports": {
+    ".": "./exports.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caret-sei/core.git",
+    "directory": "packages/lib/sdk"
+  },
+  "devDependencies": {
+    "tsconfig": "*",
+    "typescript": "^5.2.2"
+  }
+}
